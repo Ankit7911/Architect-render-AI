@@ -1,0 +1,5 @@
+{
+  "name": "Architectural Render AI",
+  "description": "An application that uses AI to transform SketchUp screenshots into photorealistic renders with customizable styles, time of day, and weather conditions.",
+  "requestFramePermissions": []
+}
